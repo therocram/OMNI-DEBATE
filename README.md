@@ -1,2 +1,6 @@
 # OMNI-DEBATE
-This sounds hard so we decided to do it
+Design Objectives:
+  1.  
+  2.
+  3.
+  4.
