@@ -1,3 +1,8 @@
 # OMNI-DEBATE
 Design Objectives:
-TBD
+	1. 
+	2.
+	3.
+	4.
+	5.
+	6.
